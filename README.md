@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @greatng
-- 👀 I’m interested in Photography, Aviation & Design
-- 🌱 I’m currently learning JS, Ruby, PHP, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me paphawit.ng@gmail.com
+- 👋 Hi, I’m @greatng (Great)
+- 👀 I’m interested in Photography, Aviation & Design, Gardening and Coding
+- 🌱 I’m currently learning JS, React JS, Python, Golang and C
+- 🎓 Cadet of 42Bangkok
+- 📫 Reach me -> paphawit.ng@gmail.com
 
 <!---
 greatng/greatng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
