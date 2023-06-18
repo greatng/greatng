@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m @greatng (Great)
 - 👀 I’m interested in Photography, Aviation, Design, Gardening and Coding
-- 🌱 I’m currently learning JS, React.js, Python, Golang and C
+- 😊 Experienced in TS, JS, React.js, Angular and Express.js
+- 🌱 I’m currently learning in Ruby, ROR, Golang
 - 🎓 Cadet of 42Bangkok
 - 📫 Reach me -> https://greatng.me
 
