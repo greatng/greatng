@@ -4,7 +4,7 @@
 - 😊 Experienced in TS, JS, React.js, Angular and Node.js
 - 🌱 I’m currently learning in Ruby, ROR, Golang
 - 🎓 Cadet of 42Bangkok
-- 📫 Reach me -> https://greatng.me
+- 📫 Reach me -> https://greatng.me or paphawit.ng@gmail.com
 
 
 <!---
