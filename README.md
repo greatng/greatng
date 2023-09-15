@@ -1,5 +1,6 @@
 
 - 👋 Hi, I’m @greatng (Great)
+- 🖥️ Software Engineer @LSEG
 - 👀 I’m interested in Photography, Aviation, Design, Gardening and Coding
 - 😊 Experienced in TS, JS, React.js, Angular and Node.js
 - 🌱 I’m currently learning in Ruby, ROR, Golang
